@@ -23,12 +23,18 @@ Before you start, ensure that you have the following installed:
 
 2.Install required packages
 Run the following command to install the necessary dependencies: 
-npm install 
+   ```bash
+   npm install
+   ``` 
 
 3.Run the Project
 Start the project locally using the command:
-npm run dev
+   ```bash
+   npm run dev
+   ``` 
 
 4.Build the Project
 To build the project for production, use:
-npm run build
+   ```bash
+   npm run build
+   ``` 
