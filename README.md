@@ -21,19 +21,19 @@ Before you start, ensure that you have the following installed:
    cd CaseStudy
    ```
 
-2.Install required packages
+2.**Install required packages**
 Run the following command to install the necessary dependencies: 
    ```bash
    npm install
    ``` 
 
-3.Run the Project
+3.**Run the Project**
 Start the project locally using the command:
    ```bash
    npm run dev
    ``` 
 
-4.Build the Project
+4.**Build the Project**
 To build the project for production, use:
    ```bash
    npm run build
